@@ -72,9 +72,9 @@ For the exploratory testing. The first pair, Brian and Zheng, and the second pai
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-During the covid pandemic, the pair and group testing are not practicable face to face. The backlog website and sufficient communication among group members help to gather ideas and share work.
+During the covid pandemic, the pair and group testing are not practicable face to face. The backlog website and sufficient communication among group members help to gather ideas and share work. As we initially used the backlog, we didn't handle the functionalities in backlog well due to the unfamiliarity. But the lab document shows the very detailed steps about how to operate the functions in the website. After learning from the guide, we could handle the backlog website easily.
 This first assignment provides a great insight to software testing whether on testing formats and procedures or group testing experience.
 
 # Comments/feedback on the lab and lab document itself
 
-This lab is meaningful because it practiced three kinds of testing skills that we have learned. It also helps us develop the skills of co-opearateing with other teammates since it requires us to work as a pair. In the future assignment, hopefully there will be more chances to practice our teamwork skills. The lab document shows very detailed definition of the terms and precise steps. Overall, the lab document works as a guild very well.
+This lab is meaningful because it practiced three kinds of testing skills that we have learned. It also helps us develop the skills of co-opearateing with other teammates since it requires us to work as a pair. In the future assignment, hopefully there will be more chances to practice our teamwork skills. The lab document shows very detailed definition of the terms and precise steps. Overall, the lab document works as a guide very well.
