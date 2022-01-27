@@ -38,6 +38,15 @@ This lab aims to practise the use of mutiple testing methods including explorato
 
 Exploratory testing is a sort of manual testing that guides the testing process using the testers' experience and intuition rather than scripts. It's especially useful for discovering flaws that are missed by automated tests, testing UI aspects, and verifying that software satisfies its requirements. Exploratory testers are frequently directed by "charters," which outline the final testing goals but do not advise the tester what to do or where to focus.
 
+The functions being tested druing the exploratory testing are:
+    • logging into the system,
+    • withdrawing, depositing, and transfering the correct amount of money,
+    • showing the correct information in the balance inquiry.
+
+In the exploratory testing, we decide to widely test the outlined functions. The outlined functions will be tested only once.
+
+The designed test cases focus on the common paths of each outlined functionality which all the test inputs are legitimate.  
+
 # Comparison of exploratory and manual functional testing
 
 Manual testing of this sort is known as exploratory testing. It's usually done near the conclusion of software development lifecycles, and it goes hand in hand with the move toward scripting and automation — yet it couldn't be more unlike. Exploratory testing, rather than offering testers step-by-step scripts to test against, taps into their creative sides, relying on their expertise and intuition to steer the testing process and produce discoveries that scripts and automated tests would have missed.
