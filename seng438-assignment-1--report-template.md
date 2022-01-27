@@ -77,4 +77,4 @@ This first assignment provides a great insight to software testing whether on te
 
 # Comments/feedback on the lab and lab document itself
 
-Text…
+This lab is meaningful because it practiced three kinds of testing skills that we have learned. It also helps us develop the skills of co-opearateing with other teammates since it requires us to work as a pair. In the future assignment, hopefully there will be more chances to practice our teamwork skills. The lab document shows very detailed definition of the terms and precise steps. Overall, the lab document works as a guild very well.
