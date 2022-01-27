@@ -2,12 +2,12 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#:       |   |
+| Group \#:       | 9 |
 |-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Student Names:  | Brian Chen  |
+|                 | Zheng Chen  |
+|                 | Rui Guan    |
+|                 | Weitao Wu   |
 
 **Table of Contents**
 
