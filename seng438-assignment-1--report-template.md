@@ -32,8 +32,7 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+This lab aims to practise the use of mutiple testing methods including exploratory testing and manual functional testing. The exploratory testing is not structured. Exploratory testers usually follow the objectives to test the important features of the application. The manual scripted tesing is more structured. It requires the testers to test feastures of the application according to the test guide.
 
 # High-level description of the exploratory testing plan
 
