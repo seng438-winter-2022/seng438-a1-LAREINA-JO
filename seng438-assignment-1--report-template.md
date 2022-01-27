@@ -40,8 +40,11 @@ Exploratory testing is a sort of manual testing that guides the testing process 
 
 The functions being tested druing the exploratory testing are:
     • logging into the system,
+
     • withdrawing, depositing, and transfering the correct amount of money,
+
     • showing the correct information in the balance inquiry.
+    
 
 In the exploratory testing, we decide to widely test the outlined functions. The outlined functions will be tested only once.
 
